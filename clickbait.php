@@ -32,7 +32,7 @@
     <body>
         <div class="container">
             <h1> <?php echo TITLE; ?> </h1>
-            <p class="lead">Hate click bait??? Turn those annoying headlines into realistic and honest ones using this simple program. </p>
+            <p class="lead">Hate click bait?? Turn those annoying headlines into realistic and honest ones using this simple program. </p>
 
             <div class="row">
                 <form class="col-sm-8 col-sm-offset-2" action="" method="post">
